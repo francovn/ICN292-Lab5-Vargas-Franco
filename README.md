@@ -10,7 +10,7 @@ El laboratorio crea y carga la base `andesbike` de Andes Bike, una cadena de tie
 |---|---|
 | `ICN292-Lab5-Vargas-Franco.sql` | Creación de las cuatro tablas, carga oficial y las diez consultas, en ese orden |
 | `ICN292-Lab5-Vargas-Franco.pdf` | Informe: código de cada consulta y captura de su resultado |
-| `ICN292-Lab5-Vargas-Franco.tex` | Fuente LaTeX del informe |
+| `ICN292-Lab5-Vargas-Franco.docx`| Informe en formato Word|
 | `ICN292-Lab5-Vargas-Franco.png` | Modelo entidad-relación de la base ya construida (MySQL Workbench) |
 | `Consultas/` | Capturas de las consultas que usan en el informe |
  
